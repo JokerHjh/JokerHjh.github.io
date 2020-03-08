@@ -1,10 +1,10 @@
 # Site settings
-title: JokerHe Blog
-SEOTitle: JokerHe的博客 | Hux Blog
+title: Joker's Blog
+SEOTitle: Joker的博客 | Joker
 header-img: img/home-bg.jpg
 email: jokerh@foxmail.com
-description: "JokerHe's blog"
-keyword: "JokerHe"
+description: "Joker's blog"
+keyword: "Joker"
 url: "jokerhe.com"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-#weibo_username:     huxpro
-#zhihu_username:     huxpro
+weibo_username:     那个菜鸟是谁
+#zhihu_username:     
 github_username:    jokerhjh
-#twitter_username:   huxpro
-#facebook_username:  huxpro
+#twitter_username:   
+#facebook_username:  
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -59,7 +59,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+#disqus_username: hux
 
 # Netease settings
 netease_comment: false
@@ -71,8 +71,8 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
 
 
 
